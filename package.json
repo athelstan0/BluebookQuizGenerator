@@ -1,0 +1,24 @@
+{
+  "name": "bluebookquizgenerator",
+  "version": "1.0.0",
+  "description": "JSON to QTI file quiz generataor",
+  "homepage": "https://github.com/athelstan0/BluebookQuizGenerator#readme",
+  "bugs": {
+    "url": "https://github.com/athelstan0/BluebookQuizGenerator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://athelstan0@github.com/athelstan0/BluebookQuizGenerator.git"
+  },
+  "license": "MIT",
+  "author": "Athelstan Anciano",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^40.2.1"
+  }
+}
